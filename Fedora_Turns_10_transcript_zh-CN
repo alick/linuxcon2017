@@ -1,11 +1,11 @@
 ---
 The Fedora Project's mission is to lead the advancement of free and open source software and content as a collaborative community.
-Fedora 项目的使命是作为一个协作的社区，引领开源自由软件及内容的进步。
+Fedora 项目的使命是作为一个协作的社区来引领自由与开源软件及内容的进步。
 ---
 
 0:09
 It was always intended to be a two-way street between Red Hat and the open source development community.
-我们始终期许它能成为红帽和开源开发社区之间的双向「快车道」。
+我们始终期许它成为红帽和开源开发社区之间的「双向车道」。
 
 0:17
 It's been 10 years.
@@ -21,7 +21,7 @@ When we had recently announced Fedora, and we had an entire world full of people
 We needed a name. 
 我们需要一个名字。
 Something that would be evocative of Red Hat what we are, yet not used the Red Hat trademark. And so we thought "you know, that fedora thing (note: refers to the actual hat, and not the project). That's actually kind of useful"
-能够让人回忆起曾经的Red Hat，但是并不使用红帽的商标。所以我们想，「你知道，有软呢帽（fedora）。看起来有些用。」
+能够让人回忆起曾经的Red Hat，但是并不使用红帽的商标。所以我们想，「你知道，软呢帽（fedora），的确有些用。」
 
 0:48
 Basically we had a product at Red Hat Linux that was trying to do to perform two duties at the same time. 
@@ -31,7 +31,7 @@ It was trying to be enterprise software and it was trying to be cutting-edge "re
 
 1:02
 And once the business realized that those were two conflicting goals they made the move of splitting in to Red Hat Enterprise Linux which things would support over a long period of time, and then the Fedora project, which would iterate rapidly and make changes, would be innovatived of. 
-当商务意识到这是两个相互冲突的目标时，他们决定推动拆分为提供长期支持的 Red Hat Enterprise Linux, 以及快速迭代并创新的 Fedoraproject 。
+当公司意识到这是两个相互冲突的目标时，他们决定推动拆分为提供长期支持的红帽企业版 Linux, 以及快速迭代并创新的 Fedora 项目。
 
 1:15
 Back in the Red Hat Linux days Warren Togami and other members of the Red Hat Linux community set up a site called fedora.us.
@@ -41,51 +41,51 @@ It was add-on packages for Red Hat Linux
 
 1:27
 I proposed to Red Hat at the time "Hey, I have this thing called Fedora".
-我当时建议红帽说：「嘿，我给这个取名叫 Fedora 」
+我当时向红帽提议：「嘿，我给它取名叫 Fedora 」。
 That obviously was named to be related to Red Hat in some way like it's really build upon and grow Red Hat.
-这样命名很显然是由于它和红帽的渊源，就像它确实也是生于红帽、长于红帽。
+这样命名很显然与红帽有关，就像它确实也是生于红帽、长于红帽。
 
 1:40
 The history of Fedora really was the evolution of what I still think today is the best large-scale open-source development platform in the world.
-Fedora 的历史真的是进化过程，直到今天我依然认为这是全球最大规模的开源开发平台。
+Fedora 的历史真的是全球最好的大规模开源开发平台的进化，直到今天我依然这样认为。
 
 1:51
 I was astounded, like maybe two or three years later, you could look at the chart of the Fedora contributor accounts that was in the thousands.
-不得不惊叹，两到三年之后，再看看 Fedora 贡献者的图表，（贡献者）人数已经数以千计。
+不得不惊叹，（项目发起）两三年之后，Fedora 贡献者就已经数以千计。
 
 2:02
 I think Fedora is the starting course of the open source community.
-我认为 Fedora 是开源社区的样本。
+我认为 Fedora 是开源社区的「排头兵」。
 It is the platform that sets the pace of how quickly we can move forward.
 它作为一个平台，定义了我们可以多么快速地前进。
 It is a source code base of over 200 million lines of software which moves forward faster than any enterprise class product that I know of.
-它包含超过两亿行代码的开源软件，前进速度快于我所知道的任何企业级产品。
+它包含超过两亿行代码的开源软件，发展速度快于我所知道的任何企业级产品。
 
 2:23
 I think if you had to look at Fedora five years ago that you probably wouldn't see the Fedora of today.
-我认为如果你回望五年前的 Fedora，你看到的是与现在完全不同的 Fedora。
+我认为如果你五年前观察 Fedora，你很可能预见不到今天的 Fedora。
 
 2:29
 So Fedora community is pretty vast and we have people all over the world.
-Fedora 社区可谓浩浩荡荡，我们有来自世界各地的成员。
-But I think a lot of people don't realize all the things that go on behind the scenes
-但是我觉得应该有很多人并不了解背后发生的所有事。
+Fedora 社区蔚为壮大，我们有来自世界各地的成员。
+But I think a lot of people don't realize all the things that go on behind the scenes.
+但是我觉得很多人并不清楚幕后的事情。
 
 2:38
-Fedora is essentially our open innovation lab and this is critically important to Red Hat's success 
+Fedora is essentially our open innovation lab and this is critically important to Red Hat's success.
 Fedora 实质上是我们的开放创新实验室，它对红帽的成功至关重要。
 
 2:45
 People really get that there is definitely a relationship [note: between two immaterial things; RHEL and Fedora]. A lot of people do look to Fedora to you know get a view of what's coming in a future version of Red Hat Enterprise Linux.
-人们相信（在红帽企业 Linux 和 Fedora 之间）必然有一种联系。很多人都尝试从 Fedora 上对红帽企业 Linux 的未来版本一窥究竟。
+人们的确明白（在 RHEL 和 Fedora 之间）必然有种联系。很多人都尝试从 Fedora 上对红帽企业版 Linux (RHEL) 的未来版本一窥究竟。
 
 2:54
 What Fedora did do was it gave a regularity to the innovation cycle that made it possible for other really large projects that had never played well with others to in fact play well with others 
-Fedora 做的事就是它为创新闭环提供了一种规律性，使得其他大型项目从孤军奋战到众志成城成为可能
+Fedora 做的事就是它为创新闭环提供了一种规律性，使得其他大型项目从单打独斗到众志成城成为可能
 
 3:10
 Red Hat takes a policy of everything goes upstream, "upstream first".
-红帽采取的策略是一切推行上游，「上游优先」
+红帽采取的策略是一切推往上游，「上游优先」
 And it's because we're passionate about the model, we believe in the open innovation model and we're all in.
 这是缘于我们对这一模式的热忱，我们相信开放创新的模式并且我们也积极参与。
 
@@ -95,7 +95,7 @@ And for us Fedora plays a key role in that. It's where we actually work with ups
 
 3:36
 We could not make the kind of big bets that we make would we do a major update of Red Hat Enterprise Linux without all the information and all the participation and all the acceptance that we get because of the Fedora project. 
-如果没有 Fedora project 所做的参与、验收以及各种信息，我们升级 Red Hat Enterprise Linux 时一定具有很大风险。
+如果没有 Fedora 项目带来的信息、参与以及接受，我们升级红帽企业版 Linux 时会有很大风险。
 
 
 3:55
@@ -104,9 +104,9 @@ It's hard to say like "we're still here".
 But I think that that in itself is a pretty decent success.
 但是我认为从它本身而言已经相当成功了。
 I mean we're approaching the 20th release of fedora and we've done this every six months like almost exactly like [note/indistinct: waffler (like cookie cut)], not perfectly clockwork but you know pretty darn close for ten years.
-我是说，Fedora 经历了 20 个版本，而且我们过去已经坚持每六个月发布一次新版，虽然也曾迁延，但最终还是一贯坚持下来了。
+我是说，Fedora 经历了 20 个版本，而且我们过去已经坚持每六个月发布一次新版，虽然也曾迁延，但最终还是坚持下来了。
 And that's a long time to keep at something and be able to actually make something that is useful and relevant and actually works.
-长期坚持一件事情并不容易，尤其还要使之保持实用、紧密相关而且切实可用。
+长期坚持一件事情并不容易，尤其还要使之保持有用、紧密相关而且切实可用。
 I mean that in itself I think is a pretty big success of Fedora.
 在我看来 Fedora 本身就是伟大的成功。
 
@@ -118,7 +118,7 @@ I am quite happy to see that after many years later that remains true, and conti
 
 4:40
 I think it will continue being the place where a lot of awesome things that open source actually come to either be developed or they come to showcase what they've got.
-我想它会继续成为优秀开源项目的共同开发和彰显价值的平台。
+我想它会继续成为优秀开源项目开发和展示的平台。
 
 4:52
 Everything that we do is definitely got an element of innovation to it that I think really sets us apart
@@ -128,11 +128,11 @@ Everything that we do is definitely got an element of innovation to it that I th
 I certainly owe a lot to Fedora.
 Fedora 让我收获颇丰。
 Frankly it's unclear I'd be at Red Hat if it weren't for fedora.
-坦白来说，如果没有 Fedora ，我都不确定我如今是否会在红帽。
+坦白来说，如果没有 Fedora，我都不确定我如今是否会在红帽。
 
 5:05
 Would I've been able to engage as well as I did with the recruiter and ultimately Red Hat's board if I hadn't had that experience with Fedora. So certainly it's near and dear to my heart.
-如果我没有参与 Fedora 的经验，我应该无法参与到红帽，更不用提加入董事会。我从心中深爱着它。
+如果我没有参与 Fedora 的经验，我应该无法加入红帽，更不用提加入红帽董事会。我从心中深爱着它。
 
 5:15
 Fedora was vital for keeping Enterprise Linux relevant, for keeping it fresh, and for giving us the ability to make innovative leaps, time after time after time
