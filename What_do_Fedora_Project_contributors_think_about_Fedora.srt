@@ -1,0 +1,314 @@
+00:00
+[Music]
+00:05
+Okay I'm Matthew Miller. I work for Red Hat.
+00:08
+And I am the Fedora project leader.
+00:10
+My name is Jonathan Dieter.
+00:11
+I am a system administrator for a school in Beirut, Lebanon.
+00:16
+My name is Sumantro I work (for the time) for Fedora QA team and yeah
+00:21
+I am a quality engineer.
+00:23
+My name is Mike DePaulo.
+00:26
+I contribute to Fedora in my free time.
+00:28
+I'm a packager and ambassador.
+00:30
+I'm also contributing a little bit to modularity and diversity.
+00:32
+
+so I'm Jona. I'm part of the
+00:37
+Albania local community because I come from Albania
+00:40
+So my name is Pravin Satpute. I'm from India
+00:44
+So I'm Mike McGrath. I work for the platform
+00:47
+engineering team as a manager.
+00:50
+I'm Ralph Bean and I have (been coming to) the flock for
+00:53
+five or six years now. I used to work on
+00:56
+the Fedora engineering team at Red Hat
+00:58
+and so it was my full-time job to work
+01:00
+on Fedora and come to flock and work
+01:01
+with the community.
+01:05
+So my name is Kanika and I'm from India.
+01:07
+I've been contributing to fedora for two years now
+01:10
+My name is Justin Flory.
+01:12
+I've been a contributor to fedora since November 2015 or so.
+01:15
+My name is Ricky Elrod.
+01:18
+I am on the Fedora engineering team at Red Hat.
+01:20
+My name is Brian Exelbierd.
+01:22
+I work for Red Hat as the Fedora Community Action
+01:24
+and impact coordinator. 
+01:30
+Basically there's a technology side and
+01:33
+a people side and I think they're both
+01:34
+very strong. I think Fedora we do really
+01:37
+try and follow the leading edge of open
+01:39
+source technology and commitment to the
+01:42
+open source part of that. and it's not
+01:45
+just ---it not just that--- it's the bleeding
+01:47
+edge but we try to make sure we're
+01:48
+following the leading edge of
+01:50
+exciting stuff but also getting it to
+01:51
+people in a useful way. so I think that's
+01:53
+appealing. it's a kind of fun stuff to
+01:55
+work on at the operating system level so
+01:57
+that that's neat. but also this is a
+02:00
+really amazing group of people and you
+02:03
+know we've got thousands of people who
+02:05
+contribute every year
+02:07
+two or three thousand people to some level.
+02:09
+and a core group of you know maybe four
+02:11
+or five hundred people who are working
+02:13
+every week on the project and they're
+02:15
+really great generous people who have a
+02:17
+real passion for the things we're
+02:19
+working on so I think that's pretty
+02:21
+appealing - it's fun - 
+02:25
+I happily install most of the any of the nonviolent games
+02:27
+in the Fedora repository on our
+02:29
+systems and I'm like how that is.
+02:34
+The major part of Fedora where is what I love about
+02:36
+is it's a bleeding edge so I get the
+02:38
+latest in the greatest of whatever that
+02:40
+I want. so be it building bleeding edge
+02:43
+stuff on IOT or build big data I have
+02:47
+whatever tools that I require in that to
+02:50
+make sure my project is up and running.
+02:52
+one of the things that I think is
+02:53
+critical about Fedora that we are doing
+02:56
+a better and better job messaging on this.
+02:58
+the Fedora community is way more than
+03:01
+the production of the operating system
+03:03
+there's a lot of things to do and you
+03:05
+can get involved in them you know there
+03:06
+isn't like territorialism like you can
+03:08
+contribute to this component only we
+03:10
+contribute this components. I think
+03:12
+Fedora values the contributors. the thing
+03:15
+that I think is really important about
+03:17
+Fedora is we provide a facility for
+03:20
+people to do what they want to do and
+03:22
+they can get a lot of support from their
+03:24
+fellow community members because we
+03:25
+bring the right kinds of people together.
+03:27
+and I think the the amazing thing for me
+03:30
+is not just how many old faces I still
+03:33
+see that are here, but how many new faces
+03:35
+I see, and how important it is to the
+03:38
+community to get people involved in and
+03:40
+get out of their way. and I think there's
+03:43
+not just the common sense of shared
+03:46
+purpose towards building Fedora the
+03:48
+operating system and the distribution
+03:49
+and making sure that our users are are
+03:52
+happy. but there's this short there's a
+03:55
+shared understanding that we're all
+03:57
+people we're all flawed we all have
+03:59
+something to bring to the table and so
+04:01
+with let's come and talk and and figure
+04:03
+out you know what needs to happen what
+04:05
+we can do, and you know everybody sees
+04:08
+everybody else has important I think
+04:10
+it's a very unique a very unique
+04:13
+experience everybody's kind of at the
+04:14
+same level here.
+04:16
+it's great. the community by far I mean
+04:20
+people are the people I work with are
+04:23
+some of the smartest people I know
+04:24
+they're very resourceful they're they're
+04:27
+nice I mean I just I can't say enough
+04:29
+about it I just I love the community
+04:30
+it's like a family. Fedora, I will say
+04:34
+like anyone who is coming to the fedora
+04:36
+so he will not feel that there is not
+04:38
+for him anything. so there is for
+04:42
+everyone there is something in Fedora.
+04:44
+so it's a it's it's passionate but very
+04:47
+friendly. and you see that especially in
+04:50
+flock I mean it's a really a really
+04:51
+technical group of people that like
+04:53
+working together and love working on
+04:55
+what they work on and it's a fun place
+04:57
+to be ---it's it's what---. I could easily see
+05:01
+how passionate people were not just
+05:04
+about the work that they were doing but
+05:07
+also about supporting each other as they
+05:11
+can empowering an inclusive community to
+05:13
+build better software together. let's say
+05:17
+the community it's one of the main
+05:19
+reasons why I'm still part of it because
+05:22
+they are really friendly there. they are
+05:25
+really friendly to the newcomers
+05:27
+especially. so you feel really welcomed
+05:30
+at the community because you know when
+05:33
+you go to a community to a new community
+05:36
+and you want to be part of it, first of
+05:38
+all you are afraid that someone might
+05:41
+say "okay but you don't know this
+05:43
+question?" but not at all. they will be
+05:46
+really friendly with you they they will
+05:48
+support you for everything that you
+05:51
+might need. and they will show you even
+05:54
+the right direction where to go and
+05:57
+which teams you can be inside. large
+05:59
+community of people who kind of use open
+06:02
+source as an excuse to change the world
+06:03
+which that's an easy thing to say. but we
+06:06
+do it a lot through non-code
+06:08
+contributions we have a huge outreach
+06:10
+program we have huge marketing
+06:11
+opportunities writing opportunities
+06:13
+there's ways for people to become
+06:15
+involved in the ideals of open source
+06:17
+even if they choose not to actually
+06:19
+commit a line of what we as engineers
+06:21
+would call source
+06:24
+06:26
+[Music] 
