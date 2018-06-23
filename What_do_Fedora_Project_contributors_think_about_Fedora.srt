@@ -114,98 +114,123 @@ appealing. it's a kind of fun stuff to
 因此我认为这个非常具有吸引力。
 01:55
 work on at the operating system level so
+在操作系统层次做些事情总是简洁有趣的。
 01:57
 that that's neat. but also this is a
 02:00
 really amazing group of people and you
+而且 (Fedora 社区) 有一群令人吃惊的人
 02:03
 know we've got thousands of people who
+我们每年有数千名贡献者
 02:05
 contribute every year
 02:07
 two or three thousand people to some level.
+可能在两三千这个数量级。
 02:09
 and a core group of you know maybe four
+总数约四五百人的一群核心贡献者每周都会为项目付出
 02:11
 or five hundred people who are working
 02:13
 every week on the project and they're
 02:15
 really great generous people who have a
+他们非常慷慨，对他们所做的事情拥有强烈激情
 02:17
 real passion for the things we're
 02:19
 working on so I think that's pretty
+因此我认为这是很动人的，很有意思的。
 02:21
 appealing - it's fun - 
 02:25
 I happily install most of the any of the nonviolent games
+我很高兴能将 Fedora 软件仓库中的非暴力游戏安装在系统中
 02:27
 in the Fedora repository on our
 02:29
 systems and I'm like how that is.
+并且我很喜欢它们
 02:34
 The major part of Fedora where is what I love about
+最让我喜欢 Fedora 的地方是它的前卫，
 02:36
 is it's a bleeding edge so I get the
 02:38
 latest in the greatest of whatever that
+因此我可以获取任何伟大的软件的最新版本。
 02:40
 I want. so be it building bleeding edge
+无论是构建物联网还是大数据领域先进的东西，
 02:43
 stuff on IOT or build big data I have
 02:47
 whatever tools that I require in that to
+我能获取任何我需要的工具从而确保我的项目运行。
 02:50
 make sure my project is up and running.
 02:52
 one of the things that I think is
+我认为 Fedora 很关键的一点是我们传播了正确的信息。
 02:53
 critical about Fedora that we are doing
 02:56
 a better and better job messaging on this.
 02:58
 the Fedora community is way more than
+Fedora 社区远远不止发布一个操作系统。
 03:01
 the production of the operating system
 03:03
 there's a lot of things to do and you
+还有有很多可以做的事情
 03:05
 can get involved in them you know there
 03:06
 isn't like territorialism like you can
+这儿没有例如你只能为某个模块做贡献而只有我能为这个模块做贡献这样的属地主义
 03:08
 contribute to this component only we
 03:10
 contribute this components. I think
 03:12
 Fedora values the contributors. the thing
+我认为 Fedora 重视贡献者。
 03:15
 that I think is really important about
+我觉得 Fedora 很重要的一部分是 Fedora 提供了一些设施
 03:17
 Fedora is we provide a facility for
 03:20
 people to do what they want to do and
+从而使得人们可以做他们想做的事情，并且可以从社区成员中获得很多帮助，
 03:22
 they can get a lot of support from their
 03:24
 fellow community members because we
 03:25
 bring the right kinds of people together.
+因为我们讲正确的人聚集在一起了。
 03:27
 and I think the the amazing thing for me
+我觉得最另人振奋的的不是我仍然能见到多少熟悉的面孔
 03:30
 is not just how many old faces I still
 03:33
 see that are here, but how many new faces
+而是我能见到多少新面孔
 03:35
 I see, and how important it is to the
+以及吸引人加入并且走上正轨是多么的重要。
 03:38
 community to get people involved in and
 03:40
 get out of their way. and I think there's
 03:43
 not just the common sense of shared
+我认为构建 Fedora 操作系统发行版并且让用户满意不是唯一的共同理念。
 03:46
 purpose towards building Fedora the
 03:48
@@ -216,122 +241,161 @@ and making sure that our users are are
 happy. but there's this short there's a
 03:55
 shared understanding that we're all
+还包括我们都是活生生的人
 03:57
 people we're all flawed we all have
+人无完人
 03:59
 something to bring to the table and so
+三人行必有我师
 04:01
 with let's come and talk and and figure
+集思广益因此可以知道需要推进什么事情发生
 04:03
 out you know what needs to happen what
 04:05
 we can do, and you know everybody sees
+并且任何人都觉得其他人是重要的
 04:08
 everybody else has important I think
 04:10
 it's a very unique a very unique
+我认为人人平等这是一种非常独特的体验
 04:13
 experience everybody's kind of at the
 04:14
 same level here.
 04:16
 it's great. the community by far I mean
+这是非常伟大的。
 04:20
 people are the people I work with are
+我是说与我共识的社区成员是我认识的最聪明的人
 04:23
 some of the smartest people I know
 04:24
 they're very resourceful they're they're
+他们知识渊博
 04:27
 nice I mean I just I can't say enough
+他们为人友善
 04:29
 about it I just I love the community
+我完全无法用语言形容。总之我非常热爱这个社区
 04:30
 it's like a family. Fedora, I will say
+它像一个大家庭。
 04:34
 like anyone who is coming to the fedora
+就像其他人所说那样，任何加入社区的人都会感受到归属感
 04:36
 so he will not feel that there is not
 04:38
 for him anything. so there is for
 04:42
 everyone there is something in Fedora.
+每个人都能从 Fedora 中找到适合自己适合的事务。
 04:44
 so it's a it's it's passionate but very
+社区非常有激情并且很友善
 04:47
 friendly. and you see that especially in
+并且在 Flock 这个非常显著
 04:50
 flock I mean it's a really a really
+我是说，Flock 是一伙非常技术的人
 04:51
 technical group of people that like
 04:53
 working together and love working on
+喜爱他们所做的事情并且聚集到一起来工作
 04:55
 what they work on and it's a fun place
+Flock 是个非常有趣的地方
 04:57
 to be ---it's it's what---. I could easily see
 05:01
 how passionate people were not just
+我可以很容易得看到人们不仅对他们所做的事情有激情，
 05:04
 about the work that they were doing but
 05:07
 also about supporting each other as they
+并且他们也会相互支持
 05:11
 can empowering an inclusive community to
+这使得一个包罗万象的社区共同制作更好的软件成为可能
 05:13
 build better software together. let's say
 05:17
 the community it's one of the main
+或许可以说社区是我仍然参与 Fedora 的重要原因之一。
 05:19
 reasons why I'm still part of it because
 05:22
 they are really friendly there. they are
+因为成员们都特别友好
 05:25
 really friendly to the newcomers
+他们对新人尤其友好
 05:27
 especially. so you feel really welcomed
 05:30
 at the community because you know when
+因此你在社区中会觉得受到欢迎
 05:33
 you go to a community to a new community
+要知道，想参与到社区并且成为社区一员，
 05:36
 and you want to be part of it, first of
 05:38
 all you are afraid that someone might
+首先你会担心的就是有人说：
 05:41
 say "okay but you don't know this
+“哦？你连这个问题都不知道！”，但这不会发生。
 05:43
 question?" but not at all. they will be
 05:46
 really friendly with you they they will
 05:48
 support you for everything that you
+社区成员会尽最大努力帮助你。
 05:51
 might need. and they will show you even
 05:54
 the right direction where to go and
+他们会为你指引正确的方向，
 05:57
 which teams you can be inside. large
+以及哪个团队可能更擅长（你遇到的问题）。
 05:59
 community of people who kind of use open
+社区成员利用开源作为改变社会的借口，说起来容易
 06:02
 source as an excuse to change the world
 06:03
 which that's an easy thing to say. but we
+但是我们也从非技术角度做出贡献
 06:06
 do it a lot through non-code
 06:08
 contributions we have a huge outreach
+我们有一个巨大的拓广项目
 06:10
 program we have huge marketing
+我们有很多市场方面的机遇
 06:11
 opportunities writing opportunities
+写作方面的机遇
 06:13
 there's ways for people to become
+开源社区中总有适合人们的方面。
 06:15
 involved in the ideals of open source
 06:17
 even if they choose not to actually
+甚至即使他们不打算贡献任何一行工程师们称之为代码的东西都可以
 06:19
 commit a line of what we as engineers
 06:21
