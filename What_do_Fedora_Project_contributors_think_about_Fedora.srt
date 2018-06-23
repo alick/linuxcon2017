@@ -2,73 +2,98 @@
 [Music]
 00:05
 Okay I'm Matthew Miller. I work for Red Hat.
+我是 Matthew Miller。我在 Red Hat 工作。
 00:08
 And I am the Fedora project leader.
+我是 Fedora 项目负责人。
 00:10
 My name is Jonathan Dieter.
+我叫 Jonathan Dieter。
 00:11
 I am a system administrator for a school in Beirut, Lebanon.
+我是黎巴嫩 Beirut 地区一所学校的系统管理员。
 00:16
 My name is Sumantro I work (for the time) for Fedora QA team and yeah
+我叫 Sumantro，当前我在 Fedora QA 部门工作。是的我是一名质量工程师。
 00:21
 I am a quality engineer.
 00:23
 My name is Mike DePaulo.
+我叫 Mike DePaulo。
 00:26
 I contribute to Fedora in my free time.
+业余时间我为 Fedora 做一些贡献。
 00:28
 I'm a packager and ambassador.
+我是一名打包者，也是一名 （Fedora）大使
 00:30
 I'm also contributing a little bit to modularity and diversity.
+有时我也为模块化和多样性做一点贡献。
 00:32
-
 so I'm Jona. I'm part of the
+我是 Jona。我来自阿尔巴尼亚的本地社区
 00:37
 Albania local community because I come from Albania
 00:40
 So my name is Pravin Satpute. I'm from India
+我是 Pravin Satpute。我来自印度。
 00:44
+
 So I'm Mike McGrath. I work for the platform
+我是 Mike McGrath。我是 (Red Hat) 平台研发团队的一位经理。
 00:47
 engineering team as a manager.
 00:50
 I'm Ralph Bean and I have (been coming to) the flock for
+我是 Ralph Bean，过去五六年我都参加了 FLOCK 
 00:53
 five or six years now. I used to work on
 00:56
 the Fedora engineering team at Red Hat
+我曾经在 Red Hat 的 Fedora 工程团队工作，
 00:58
 and so it was my full-time job to work
+所以为 Fedora 工作以及参加 Flock 曾经是我的本职工作的一部分。
 01:00
 on Fedora and come to flock and work
 01:01
 with the community.
 01:05
 So my name is Kanika and I'm from India.
+我叫 Kanika，我来自印度
 01:07
 I've been contributing to fedora for two years now
+我已经为 Fedora 做贡献达两年。
 01:10
 My name is Justin Flory.
+我叫 Justin Flory。
 01:12
 I've been a contributor to fedora since November 2015 or so.
+2015 年 11 月前后我开始为 Fedora 做贡献。
 01:15
 My name is Ricky Elrod.
+我叫 Ricky Elord。
 01:18
 I am on the Fedora engineering team at Red Hat.
+目前我在 Red Hat 的 Fedora研发团队工作。
 01:20
 My name is Brian Exelbierd.
+我叫 Brian Exelbierd。
 01:22
 I work for Red Hat as the Fedora Community Action
+我在 Red Hat 担任 Fedora 执行与影响力协调人。
 01:24
 and impact coordinator. 
 01:30
 Basically there's a technology side and
+简单来说 (Fedora 社区) 有技术与人员两个方面，而且我认为二者发展都很强势。
 01:33
 a people side and I think they're both
 01:34
 very strong. I think Fedora we do really
 01:37
 try and follow the leading edge of open
+我认为我们确实尝试并且跟随开源的先进性，并且为开源做出付出。
 01:39
 source technology and commitment to the
 01:42
@@ -77,6 +102,7 @@ open source part of that. and it's not
 just ---it not just that--- it's the bleeding
 01:47
 edge but we try to make sure we're
+并且我们不仅仅跟随先进的开源技术，并且也把它们做得对用户更有用。
 01:48
 following the leading edge of
 01:50
@@ -85,6 +111,7 @@ exciting stuff but also getting it to
 people in a useful way. so I think that's
 01:53
 appealing. it's a kind of fun stuff to
+因此我认为这个非常具有吸引力。
 01:55
 work on at the operating system level so
 01:57
