@@ -11,7 +11,7 @@ My name is Jonathan Dieter.
 我叫 Jonathan Dieter。
 00:11
 I am a system administrator for a school in Beirut, Lebanon.
-我是黎巴嫩 Beirut 地区一所学校的系统管理员。
+我是黎巴嫩贝鲁特地区一所学校的系统管理员。
 00:16
 My name is Sumantro I work (for the time) for Fedora QA team and yeah
 我叫 Sumantro，当前我在 Fedora QA 部门工作。是的我是一名质量工程师。
@@ -45,7 +45,7 @@ So I'm Mike McGrath. I work for the platform
 engineering team as a manager.
 00:50
 I'm Ralph Bean and I have (been coming to) the flock for
-我是 Ralph Bean，过去五六年我都参加了 FLOCK 
+我是 Ralph Bean，过去五六年我都参加了 Flock 
 00:53
 five or six years now. I used to work on
 00:56
@@ -63,7 +63,7 @@ So my name is Kanika and I'm from India.
 我叫 Kanika，我来自印度
 01:07
 I've been contributing to fedora for two years now
-我已经为 Fedora 做贡献达两年。
+我已经为 Fedora 做贡献有两年了。
 01:10
 My name is Justin Flory.
 我叫 Justin Flory。
@@ -75,25 +75,25 @@ My name is Ricky Elrod.
 我叫 Ricky Elord。
 01:18
 I am on the Fedora engineering team at Red Hat.
-目前我在 Red Hat 的 Fedora研发团队工作。
+目前我在 Red Hat 的 Fedora 研发团队工作。
 01:20
 My name is Brian Exelbierd.
 我叫 Brian Exelbierd。
 01:22
 I work for Red Hat as the Fedora Community Action
-我在 Red Hat 担任 Fedora 执行与影响力协调人。
+我在 Red Hat 担任 Fedora “社区实践与成效协调人”。
 01:24
 and impact coordinator. 
 01:30
 Basically there's a technology side and
-简单来说 (Fedora 社区) 有技术与人员两个方面，而且我认为二者发展都很强势。
+简单来说 (Fedora 社区) 有技术与人员两个方面，而且我认为二者都很强。
 01:33
 a people side and I think they're both
 01:34
 very strong. I think Fedora we do really
 01:37
 try and follow the leading edge of open
-我认为我们确实尝试并且跟随开源的先进性，并且为开源做出付出。
+我认为我们确实努力跟随开源前沿，坚守开源精神。
 01:39
 source technology and commitment to the
 01:42
@@ -102,7 +102,7 @@ open source part of that. and it's not
 just ---it not just that--- it's the bleeding
 01:47
 edge but we try to make sure we're
-并且我们不仅仅跟随先进的开源技术，并且也把它们做得对用户更有用。
+并不只是说最新的代码版本，而是跟随开源技术前沿，并且把它们做得对用户有用。
 01:48
 following the leading edge of
 01:50
@@ -110,24 +110,25 @@ exciting stuff but also getting it to
 01:51
 people in a useful way. so I think that's
 01:53
-appealing. it's a kind of fun stuff to
-因此我认为这个非常具有吸引力。
+appealing. It's a kind of fun stuff to
+所以我认为这个非常有吸引力。
 01:55
 work on at the operating system level so
-在操作系统层次做些事情总是简洁有趣的。
+在操作系统层做这些事情挺有趣的。
 01:57
 that that's neat. but also this is a
+这样很棒。
 02:00
 really amazing group of people and you
-而且 (Fedora 社区) 有一群令人吃惊的人
+而且 (Fedora 社区) 是一群很给力的人
 02:03
 know we've got thousands of people who
-我们每年有数千名贡献者
+我们有数千名贡献者每年都会有所贡献
 02:05
 contribute every year
 02:07
 two or three thousand people to some level.
-可能在两三千这个数量级。
+大约两三千人。
 02:09
 and a core group of you know maybe four
 总数约四五百人的一群核心贡献者每周都会为项目付出
@@ -147,28 +148,28 @@ working on so I think that's pretty
 appealing - it's fun - 
 02:25
 I happily install most of the any of the nonviolent games
-我很高兴能将 Fedora 软件仓库中的非暴力游戏安装在系统中
+我很高兴地把 Fedora 软件仓库中的大多数非暴力游戏安装在系统中
 02:27
 in the Fedora repository on our
 02:29
-systems and I'm like how that is.
-并且我很喜欢它们
+systems and I'm like how about it.
+然后问自己这个怎么样。
 02:34
 The major part of Fedora where is what I love about
 最让我喜欢 Fedora 的地方是它的前卫，
 02:36
 is it's a bleeding edge so I get the
 02:38
-latest in the greatest of whatever that
-因此我可以获取任何伟大的软件的最新版本。
+latest and the greatest of whatever that
+因此我可以获取我想用的软件的最新最好版本。
 02:40
 I want. so be it building bleeding edge
-无论是构建物联网还是大数据领域先进的东西，
+无论是构建物联网还是大数据领域前沿的东西，
 02:43
 stuff on IOT or build big data I have
 02:47
 whatever tools that I require in that to
-我能获取任何我需要的工具从而确保我的项目运行。
+我能获取任何我需要的工具从而使我的项目启动运行。
 02:50
 make sure my project is up and running.
 02:52
@@ -212,10 +213,10 @@ they can get a lot of support from their
 fellow community members because we
 03:25
 bring the right kinds of people together.
-因为我们讲正确的人聚集在一起了。
+因为我们把对的人聚集在一起了。
 03:27
 and I think the the amazing thing for me
-我觉得最另人振奋的的不是我仍然能见到多少熟悉的面孔
+我觉得最令人振奋的的不是我仍然能见到多少熟悉的面孔
 03:30
 is not just how many old faces I still
 03:33
@@ -223,14 +224,14 @@ see that are here, but how many new faces
 而是我能见到多少新面孔
 03:35
 I see, and how important it is to the
-以及吸引人加入并且走上正轨是多么的重要。
+以及吸引新人加入并且不去干涉是多么的重要。
 03:38
 community to get people involved in and
 03:40
 get out of their way. and I think there's
 03:43
 not just the common sense of shared
-我认为构建 Fedora 操作系统发行版并且让用户满意不是唯一的共同理念。
+我认为不只是打造 Fedora 操作系统发行版并且让用户满意这个共同理念。
 03:46
 purpose towards building Fedora the
 03:48
@@ -250,24 +251,24 @@ something to bring to the table and so
 三人行必有我师
 04:01
 with let's come and talk and and figure
-集思广益因此可以知道需要推进什么事情发生
+集思广益，搞明白需要做什么我们能做什么
 04:03
 out you know what needs to happen what
 04:05
 we can do, and you know everybody sees
-并且任何人都觉得其他人是重要的
+并且每个人都觉得其他人是重要的
 04:08
 everybody else has important I think
 04:10
 it's a very unique a very unique
-我认为人人平等这是一种非常独特的体验
+这里大家比较平等，这是一种非常独特的体验
 04:13
 experience everybody's kind of at the
 04:14
 same level here.
 04:16
 it's great. the community by far I mean
-这是非常伟大的。
+这样很好。
 04:20
 people are the people I work with are
 我是说与我共识的社区成员是我认识的最聪明的人
@@ -294,16 +295,16 @@ so he will not feel that there is not
 for him anything. so there is for
 04:42
 everyone there is something in Fedora.
-每个人都能从 Fedora 中找到适合自己适合的事务。
+每个人都能从 Fedora 中找到适合自己的事情。
 04:44
 so it's a it's it's passionate but very
 社区非常有激情并且很友善
 04:47
 friendly. and you see that especially in
-并且在 Flock 这个非常显著
+并且在 Flock 这里非常明显
 04:50
 flock I mean it's a really a really
-我是说，Flock 是一伙非常技术的人
+我是说，Flock 是一群技术很强的人
 04:51
 technical group of people that like
 04:53
@@ -368,10 +369,10 @@ the right direction where to go and
 他们会为你指引正确的方向，
 05:57
 which teams you can be inside. large
-以及哪个团队可能更擅长（你遇到的问题）。
+以及哪些团队你可以参与其中。
 05:59
 community of people who kind of use open
-社区成员利用开源作为改变社会的借口，说起来容易
+社区成员利用开源作为改变社会的理由，说起来容易
 06:02
 source as an excuse to change the world
 06:03
@@ -381,7 +382,7 @@ which that's an easy thing to say. but we
 do it a lot through non-code
 06:08
 contributions we have a huge outreach
-我们有一个巨大的拓广项目
+我们有一个很大的社区推广项目
 06:10
 program we have huge marketing
 我们有很多市场方面的机遇
@@ -390,7 +391,7 @@ opportunities writing opportunities
 写作方面的机遇
 06:13
 there's ways for people to become
-开源社区中总有适合人们的方面。
+开源社区中总有适合人们的贡献机会。
 06:15
 involved in the ideals of open source
 06:17
